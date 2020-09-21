@@ -1,0 +1,4 @@
+Unicycler_path=/home/projects/group-a/bin/miniconda3/bin/unicycler
+MaSuRCA_path=/home/projects/group-a/bin/miniconda3/bin/masurca
+FASTp_path=/home/projects/group-a/bin/fastp
+Quast_path=/home/projects/group-a/bin/quast/quast.py
